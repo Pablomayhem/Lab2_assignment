@@ -1,3 +1,7 @@
 # Lab2_assignment
 
-First bug fix
+1. First bug fix
+
+2. Add feature
+
+3. 
