@@ -5,3 +5,5 @@
 2. Add feature esa2
 
 3. Update features esa3
+
+4. New features for release 1.0.1.
