@@ -9,3 +9,4 @@
 4. New features for release 1.0.1.
 5. Fix Bug devops
 6. Add feature devops
+7. Update features devops
