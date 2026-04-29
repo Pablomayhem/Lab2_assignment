@@ -10,8 +10,10 @@ jobs:
   job1:
   
     runs-on: ubuntu-latest # This job will run on the latest version of Ubuntu.
-    permissions: # This job requires write access to issues in order to add labels and comment.
+    permissions:
+      contents: read
       issues: write
+      pull-requests: write
 
       
     steps: # The "steps" section contains the individual tasks that will be performed in this job.
